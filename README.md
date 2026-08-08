@@ -154,9 +154,9 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 ## 📝 Articles & Publications
 
-- 📝 **Dev.to Article:** [Building Scalable Multi-Agent Workflows & RAG Pipelines with LangGraph and FastAPI](https://dev.to/mithxcode)
+- 📝 **Dev.to Article 1:** [Building Scalable Multi-Agent Workflows & RAG Pipelines with LangGraph and FastAPI](https://dev.to/mithxcode)
+- 📝 **Dev.to Article 2:** [Why Basic RAG Fails in Production and How Adaptive Query Routing Fixes It](https://dev.to/mithxcode)
 - 🌐 **Interactive Portfolio:** Explore projects and live demos at [mithilesh-kumar-ai-engineer.netlify.app](https://mithilesh-kumar-ai-engineer.netlify.app/)
-
 ---
 
 <p align="center">
