@@ -58,7 +58,7 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 <p align="center">
 
-  <img src="images/mithilesh-kumar-cec-cgc-landran-selfie.jpeg" alt="Mithilesh Kumar CEC CGC Landran" width="30%" style="border-radius: 8px;" />
+  <img src="images/mithilesh-kumar-cec-cgc-landran.jpeg" alt="Mithilesh Kumar CEC CGC Landran" width="30%" style="border-radius: 8px;" />
 
   <img src="images/mithilesh-kumar-ai-engineer-formal-selfie.jpeg" alt="Mithilesh Kumar Formal Selfie" width="30%" style="border-radius: 8px;" />
 
