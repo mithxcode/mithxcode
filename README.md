@@ -28,6 +28,15 @@ My engineering and technical mindset was shaped through years of self-discipline
 
 From a small village in Bihar to engineering autonomous multi-agent AI systems and high-throughput backend APIs in Punjab, my journey is driven by continuous learning, consistency, and a strong desire to solve real-world problems through modern software engineering.
 
+<p align="center">
+  <img src="images/mithilesh-kumar-ai-engineer-portfolio.jpeg" alt="Mithilesh Kumar AI Engineer" width="30%" style="border-radius: 8px;" />
+  <img src="images/mithilesh-kumar-ai-engineer-coding-at-desk.jpeg" alt="Mithilesh Kumar Coding at Desk" width="30%" style="border-radius: 8px;" />
+  <img src="images/mithilesh-kumar-generative-ai-developer.jpeg" alt="Mithilesh Kumar Generative AI Developer" width="30%" style="border-radius: 8px;" />
+</p>
+<p align="center">
+  <sub><i>Building autonomous AI systems & high-performance backend pipelines</i></sub>
+</p>
+
 ---
 
 ## 👤 Executive Profile & Summary
@@ -45,6 +54,16 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 | **Portfolio Website** | [mithilesh-kumar-ai-engineer.netlify.app](https://mithilesh-kumar-ai-engineer.netlify.app/) |
 | **LinkedIn** | [linkedin.com/in/mithileshkumar001](https://www.linkedin.com/in/mithileshkumar001) |
 | **X (Twitter)** | [@MITHILESH_7781](https://x.com/MITHILESH_7781) |
+
+
+<p align="center">
+  <img src="images/mithilesh-kumar-cec-cgc-chandigarh-tech.jpeg" alt="Mithilesh Kumar CEC Chandigarh" width="30%" style="border-radius: 8px;" />
+  <img src="images/mithilesh-kumar-ai-engineer-formal-selfie.jpeg" alt="Mithilesh Kumar Formal Selfie" width="30%" style="border-radius: 8px;" />
+  <img src="images/mithilesh-kumar-ai-engineer-Banka-Bihar.jpeg" alt="Mithilesh Kumar Banka Bihar" width="30%" style="border-radius: 8px;" />
+</p>
+<p align="center">
+  <sub><i>From Banka, Bihar to CEC Chandigarh — AI Engineering Journey</i></sub>
+</p>
 
 ---
 
