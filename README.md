@@ -57,14 +57,13 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 
 <p align="center">
-  <img src="images/mithilesh-kumar-cec-chandigarh.jpeg" alt="Mithilesh Kumar Formal Selfie" width="30%" style="border-radius: 8px;" />
-  <img src="images/mithilesh-kumar-ai-engineer-formal-selfie.jpeg" alt="Mithilesh Kumar Formal Selfie" width="30%" style="border-radius: 8px;" />
-  <img src="images/mithilesh-kumar-ai-engineer-Banka-Bihar.jpeg" alt="Mithilesh Kumar Banka Bihar" width="30%" style="border-radius: 8px;" />
+  <img src="images/mithilesh-kumar-cec-chandigarh.jpeg" alt="Mithilesh Kumar CEC Chandigarh" width="30%" height="250" style="object-fit: cover; border-radius: 8px; vertical-align: middle;" />
+  <img src="images/mithilesh-kumar-ai-engineer-formal-selfie.jpeg" alt="Mithilesh Kumar Formal Selfie" width="30%" height="250" style="object-fit: cover; border-radius: 8px; vertical-align: middle;" />
+  <img src="images/mithilesh-kumar-ai-engineer-Banka-Bihar.jpeg" alt="Mithilesh Kumar Banka Bihar" width="30%" height="250" style="object-fit: cover; border-radius: 8px; vertical-align: middle;" />
 </p>
 <p align="center">
   <sub><i>From Banka, Bihar to CEC Chandigarh — AI Engineering Journey</i></sub>
 </p>
-
 ---
 
 ## 🚀 Core Expertise & Technical Stack
