@@ -72,7 +72,7 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 </p> 
 
-Aapko
+
 ---
 
 ## 🚀 Core Expertise & Technical Stack
