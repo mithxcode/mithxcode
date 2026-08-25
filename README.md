@@ -128,7 +128,7 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 * 🛠️ **Tech Stack:** `Python`, `FastAPI`, `React.js`, `OpenAI API`, `Natural Language Processing`
 
 - **Security & Pattern Analysis:** Developed an AI-assisted security utility that parses incoming SMS, emails, and transaction notes to detect phishing patterns and malicious URLs.
-- **Instant Risk Scoring:** Leveraged NLP algorithms and LLM analysis to deliver real-time risk scores and actionable safety advice to prevent digital scams.
+- **Instant Risk Scoring:** Leveraged NLP algorithms and LLM analysis to deliver real-time risk scores and the actionable safety advice to prevent digital scams.
 
 ---
 
