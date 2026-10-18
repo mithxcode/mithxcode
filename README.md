@@ -93,6 +93,7 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 ### 1. 🤖 Multi-Agent AI Research & Automated Report Generation Platform
 > **Autonomous Multi-Agent System for Dynamic Web Research & Document Synthesis**
 * 🔗 **Repository:** [`mithxcode/ai-research-platform`](https://github.com/mithxcode/ai-research-platform)
+* 🔗 **Live Demo:** https://multiagent-ai-research-system.streamlit.app
 * 🛠️ **Tech Stack:** `Python`, `FastAPI`, `LangGraph`, `Gemini API`, `Tavily API`, `MongoDB`, `Streamlit`, `ReportLab`, `python-docx`
 
 - **Agentic Workflow Orchestration:** Built an autonomous multi-agent graph using **LangGraph** to coordinate specialized agents (*Planner*, *Researcher*, *Fact-Verifier*, *Summarizer*, and *Report Writer*).
