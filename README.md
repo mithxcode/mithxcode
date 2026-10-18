@@ -92,7 +92,7 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 ### 1. 🤖 Multi-Agent AI Research & Automated Report Generation Platform
 > **Autonomous Multi-Agent System for Dynamic Web Research & Document Synthesis**
-* 🔗 **Repository:** [`mithxcode/multi-document-rag-system`](https://github.com/mithxcode/multi-document-rag-system)
+* 🔗 **Repository:** [`mithxcode/ai-research-platform`](https://github.com/mithxcode/ai-research-platform)
 * 🛠️ **Tech Stack:** `Python`, `FastAPI`, `LangGraph`, `Gemini API`, `Tavily API`, `MongoDB`, `Streamlit`, `ReportLab`, `python-docx`
 
 - **Agentic Workflow Orchestration:** Built an autonomous multi-agent graph using **LangGraph** to coordinate specialized agents (*Planner*, *Researcher*, *Fact-Verifier*, *Summarizer*, and *Report Writer*).
@@ -103,7 +103,10 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 ### 2. 🔍 Knowledge Management & Advanced Document Search Engine
 > **Enterprise-Grade RAG Pipeline with Semantic Retrieval & Vector Indexing**
-* 🔗 **Repositories:** [`mithxcode/pdf-rag-chatbot`](https://github.com/mithxcode/pdf-rag-chatbot) | [`mithxcode/Adaptive-Rag`](https://github.com/mithxcode/Adaptive-Rag)
+* 🔗 **Repositories:** [`mithxcode/pdf-rag-chatbot`](https://github.com/mithxcode/
+pdf-rag-assistant) | [`mithxcode/
+pdf-rag-assistant`](https://github.com/mithxcode/
+pdf-rag-assistant)
 * 🛠️ **Tech Stack:** `Python`, `FastAPI`, `LangChain`, `Pinecone Vector DB`, `ChromaDB`, `OpenAI API`, `Gemini API`, `Streamlit`
 
 - **High-Performance RAG Architecture:** Developed an end-to-end Retrieval-Augmented Generation pipeline handling dynamic PDF document ingestion, recursive text chunking, and dense embedding generation.
