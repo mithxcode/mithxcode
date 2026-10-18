@@ -103,10 +103,7 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 ### 2. 🔍 Knowledge Management & Advanced Document Search Engine
 > **Enterprise-Grade RAG Pipeline with Semantic Retrieval & Vector Indexing**
-* 🔗 **Repositories:** [`mithxcode/pdf-rag-chatbot`](https://github.com/mithxcode/
-pdf-rag-assistant) | [`mithxcode/
-pdf-rag-assistant`](https://github.com/mithxcode/
-pdf-rag-assistant)
+* 🔗**Repositories:** [`mithxcode/pdf-rag-assistant`](https://github.com/mithxcode/pdf-rag-chatbot) | [`mithxcode/pdf-rag-assistant`](https://github.com/mithxcode/pdf-rag-assistant)
 * 🛠️ **Tech Stack:** `Python`, `FastAPI`, `LangChain`, `Pinecone Vector DB`, `ChromaDB`, `OpenAI API`, `Gemini API`, `Streamlit`
 
 - **High-Performance RAG Architecture:** Developed an end-to-end Retrieval-Augmented Generation pipeline handling dynamic PDF document ingestion, recursive text chunking, and dense embedding generation.
