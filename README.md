@@ -169,7 +169,7 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 ## 🏆 Achievements & Recognition
 
-- * 🏆 **Winner — College Hackathon (2026):** Secured 1st place by building CGC-NEXUS, a full-stack college event management platform that streamlined registrations, participation tracking, and organizer workflows to address a real-world campus management problem.
+- 🏆 **Winner — College Hackathon (2026):** Secured 1st place by building CGC-NEXUS, a full-stack college event management platform that streamlined registrations, participation tracking, and organizer workflows to address a real-world campus management problem.
 - **🥈 2nd Place — College Coding Competition (2024):** Recognized for strong problem-solving skills in Data Structures & Algorithms.
 
 ---
