@@ -116,18 +116,19 @@ From a small village in Bihar to engineering autonomous multi-agent AI systems a
 
 ---
 
-### 3. 🏫 CGC-NEXUS: Campus Event Management Platform
+### 3. ### 3. 🏫 CGC-NEXUS — Campus Event Management Platform
 
-Full-Stack Club & Event Registration Portal
+> Full-Stack Club & Event Registration Portal
 
 * 🔗 **Repository:** [`mithxcode/CGC-NEXUS-FullStack`](https://github.com/mithxcode/CGC-NEXUS-FullStack)
 * 🔗 **Live Demo:** [https://cgc-nexus-frontend.onrender.com](https://cgc-nexus-frontend.onrender.com)
 * 🛠️ **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `MongoDB (Mongoose)`, `JWT`, `REST APIs`, `Nodemailer`, `Render`
-
 * **Full-Stack Architecture:** Built a full-stack campus event portal with React and Node/Express, using an MVC-style structure (models, controllers, routes). It covers club discovery, event pages and solo/team event registration for 14 college clubs.
 * **Role-Based Security:** Developed REST APIs secured with JWT authentication and Role-Based Access Control for three roles (student, club manager, admin), plus OTP email verification restricted to college email addresses.
 * **Data Modeling & Event Operations:** Designed MongoDB schemas with a unique compound index to block duplicate registrations and a TTL index for OTP expiry. Added team registration with participant details, per-member attendance marking and CSV export for organizers.
 * **Deployment:** Deployed the frontend (Render static site) and backend (Render web service) with MongoDB Atlas as the database.
+
+---
 
 ### 4. 🛡️ StopScams.in — AI-Powered Fraud Detection Engine
 > **Real-Time Phishing & Scam Analysis Web Application**
